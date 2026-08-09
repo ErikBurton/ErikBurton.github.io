@@ -410,6 +410,11 @@ section { padding: 6rem 3rem; }
   transform: scale(1.03);
 }
 
+.project-thumb-contain {
+  object-fit: contain;
+  object-position: center;
+}
+
 .project-info {
   padding: 1.5rem;
   flex: 1;
